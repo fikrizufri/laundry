@@ -9,9 +9,12 @@
     "license": "MIT",
     "require": {
         "php": "^7.2",
+        "doctrine/dbal": "^2.9",
         "fideloper/proxy": "^4.0",
         "laravel/framework": "^6.0",
-        "laravel/tinker": "^1.0"
+        "laravel/tinker": "^1.0",
+        "pusher/pusher-php-server": "^4.0",
+        "spatie/laravel-permission": "^3.2"
     },
     "require-dev": {
         "facade/ignition": "^1.4",
